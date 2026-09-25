@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Management System",
+  "description": "A comprehensive, responsive Restaurant Management System college software engineering assignment project featuring Table Management, Point of Sale, Kitchen Display, Billing with GST, Reports, and Role-Based Access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
